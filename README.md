@@ -1,4 +1,4 @@
-This app is develoed using using <b>ASP.NET Core MVC</b>.
+This app is develoed for Eveolent Health Exercise using using <b>ASP.NET Core MVC</b>.
 
 Using this app users can,
 1) See the list of contacts
